@@ -25,5 +25,6 @@ So I want to start working as a Software Tester and continue to grow in this sub
 * Praktyczny kurs testowania oprogramowania ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 [Link do kursu](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
 
-* Naucz się SQL-a! Kurs video. 70 ćwiczeń z podstaw tworzenia zapytań
+* Naucz się SQL-a! Kurs video. 70 ćwiczeń z podstaw tworzenia zapytań <img width="133" alt="image" src="https://user-images.githubusercontent.com/116006116/205502590-fdb2543d-7155-4300-8c79-81906148758c.png">
+
 [Link do kursu](https://biblio.ebookpoint.pl/vsqlz1/naucz-sie-sql-a-kurs-video-70-cwiczen-z-podstaw-tworzenia-zapytan-krystian-brozek/w#tabs-3)
