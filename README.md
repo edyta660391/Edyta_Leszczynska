@@ -35,6 +35,18 @@ So I want to start working as a Software Tester and continue to grow in this sub
 
 * Dare IT Challenge "Zostań Testerem Manualnym" <img width="100" alt="image" src="https://user-images.githubusercontent.com/116006116/205502985-2f2241ae-0329-4cc0-a2f2-ac59ac4c90eb.png"> [Link do kursu](https://www.dareit.io/challenges/qa-manual-testing)
 
+# **Tools**
+
+* Jira
+* TesTlink
+* Slack
+* Microsoft Teams
+* Zoom
+* Xampp
+* DevTools 
+* GitHub
+* CRM
+* PRM
 
 # **Books**
 
