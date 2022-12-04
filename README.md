@@ -17,8 +17,8 @@ So I want to start working as a Software Tester and continue to grow in this sub
 
 # **Courses**
 
-* Podstawy manualnego testowania oprogramowania (Udemy)
+* Podstawy manualnego testowania oprogramowania ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 [Link do kursu](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
 
-* Praktyczny kurs testowania oprogramowania (Udemy)
-* 
+* Praktyczny kurs testowania oprogramowania ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+[Link do kursu](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
