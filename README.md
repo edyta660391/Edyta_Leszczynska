@@ -1,10 +1,8 @@
 # Edyta_Leszczynska
 
-# **Portfolio**
-
 # **![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)**
 
-# About me
+## **About me**
 
 My name is Edyta Leszczyńska. I have been working for a telecommunications company for over 8 years. I started as a sales consultant and now I am a Senior Consultant for complaints and customer service. I have experience in working with business and individual customers. 
 
@@ -26,3 +24,6 @@ So I want to start working as a Software Tester and continue to grow in this sub
 
 * Praktyczny kurs testowania oprogramowania ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 [Link do kursu](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
+
+* Naucz się SQL-a! Kurs video. 70 ćwiczeń z podstaw tworzenia zapytań
+[Link do kursu](https://biblio.ebookpoint.pl/vsqlz1/naucz-sie-sql-a-kurs-video-70-cwiczen-z-podstaw-tworzenia-zapytan-krystian-brozek/w#tabs-3)
