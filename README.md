@@ -32,3 +32,12 @@ So I want to start working as a Software Tester and continue to grow in this sub
 * Naucz się SQL-a! Kurs video. 70 ćwiczeń z podstaw tworzenia zapytań <img width="133" alt="image" src="https://user-images.githubusercontent.com/116006116/205502590-fdb2543d-7155-4300-8c79-81906148758c.png">[Link do kursu](https://biblio.ebookpoint.pl/vsqlz1/naucz-sie-sql-a-kurs-video-70-cwiczen-z-podstaw-tworzenia-zapytan-krystian-brozek/w#tabs-3)
 
 * Dare IT Challenge "Zostań Testerem Manualnym" <img width="100" alt="image" src="https://user-images.githubusercontent.com/116006116/205502985-2f2241ae-0329-4cc0-a2f2-ac59ac4c90eb.png"> [Link do kursu](https://www.dareit.io/challenges/qa-manual-testing)
+
+
+# **Books**
+
+* "Podróż przez świat testowania" - Natalia Pawlak, Karolina Pawłowska
+* "Testowanie oprogramowania. Podręcznik dla początkujących" - Rafał Pawlak
+* "Pasja testowania. Wydanie II rozszerzone" - Krzysztof Jadczyk
+* "Testowanie w procesie Scrum. Przewodnik po zarządzaniu jakością oprogramowania w świecie programowania" - Tilo Linz
+* "Certyfikowany tester ISTQB POZIOM PODSTAWOWY" - Adam Roman, Lucjan Stapp
