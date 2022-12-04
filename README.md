@@ -2,6 +2,8 @@
 
 # **Portfolio**
 
+# ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+
 My name is Edyta Leszczyńska. I have been working for a telecommunications company for over 8 years. I started as a sales consultant and now I am a Senior Consultant for complaints and customer service. I have experience in working with business and individual customers. 
 
 With my diverse experience, I have highly developed interpersonal skills. I am a communicative person. I can handle difficult situations and work in a team. In my work I often have to be creative and work under time pressure. I always strive to achieve my goals. 
