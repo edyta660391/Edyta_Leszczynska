@@ -50,6 +50,16 @@ So I want to start working as a Software Tester and continue to grow in this sub
 * CRM
 * PRM
 
+# **Tech skills**
+
+* SQL (basic level)
+* DevTools
+* Creating test cases
+* Creating bug report
+* Creating test report
+* Reporting bugs
+
+
 
 # **Books**
 
