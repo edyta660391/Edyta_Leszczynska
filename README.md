@@ -95,7 +95,7 @@ So I want to start working as a Software Tester and continue to grow in this sub
 
 # **My test report** ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
-* [Test report](https://docs.google.com/document/d/10y-tki3Yc_We8FDzdB9Ga5c7VnFvSILq/edit?usp=share_link&ouid=117512314362310181270&rtpof=true&sd=true)
+* [Test report](https://drive.google.com/file/d/1V2HByGCGo3UNeTr8_cCu6Pcbj3NLjxAm/view?usp=share_link)
 
 
 # **Exercises**
