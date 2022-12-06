@@ -17,6 +17,7 @@ I would like to exhibit my technical skills which I gained and I will continue t
 
 So I want to start working as a Software Tester and continue to grow in this subject all the time.
 
+
 # **Courses**
 
 * Podstawy manualnego testowania oprogramowania ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
@@ -35,6 +36,7 @@ So I want to start working as a Software Tester and continue to grow in this sub
 
 * Dare IT Challenge "Zostań Testerem Manualnym" <img width="100" alt="image" src="https://user-images.githubusercontent.com/116006116/205502985-2f2241ae-0329-4cc0-a2f2-ac59ac4c90eb.png"> [Link do kursu](https://www.dareit.io/challenges/qa-manual-testing)
 
+
 # **Tools**
 
 * Jira
@@ -48,13 +50,15 @@ So I want to start working as a Software Tester and continue to grow in this sub
 * CRM
 * PRM
 
-# ![image](https://user-images.githubusercontent.com/116006116/206005122-4edbac6d-d39e-4f3a-96af-8e9ec9d558ac.png)**Books**
+
+# **Books**
 
 * "Podróż przez świat testowania" - Natalia Pawlak, Karolina Pawłowska
 * "Testowanie oprogramowania. Podręcznik dla początkujących" - Rafał Pawlak
 * "Pasja testowania. Wydanie II rozszerzone" - Krzysztof Jadczyk
 * "Testowanie w procesie Scrum. Przewodnik po zarządzaniu jakością oprogramowania w świecie programowania" - Tilo Linz
 * "Certyfikowany tester ISTQB POZIOM PODSTAWOWY" - Adam Roman, Lucjan Stapp
+
 
 # **📝 Blogs**
 
@@ -65,5 +69,25 @@ So I want to start working as a Software Tester and continue to grow in this sub
 * wyszkolewas.com.pl
 * pwicherski.gitbook.io
 
+
+# **My test case examples** ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+
+* [Test cases futbolkolektyw](https://docs.google.com/spreadsheets/d/1e_K7J8zxTyjAj58gIWcIpoUD4rI094B6/edit?usp=share_link&ouid=117512314362310181270&rtpof=true&sd=true)
+* [Test cases futbolkolektyw2](https://docs.google.com/spreadsheets/d/1P4pjpBDTZQsC0o24DI03N1t_eKpEcGlI/edit?usp=share_link&ouid=117512314362310181270&rtpof=true&sd=true)
+* [Testcases pickeatup](https://docs.google.com/spreadsheets/d/1ZSJ13Idu7_jbhJk_n_AZDxfU_wxJWnXv/edit?usp=share_link&ouid=117512314362310181270&rtpof=true&sd=true)
+
+
+# **My bug reports** ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+
+* [Bug report Focusly](https://docs.google.com/spreadsheets/d/1lKs94iHzQndJ0tmnjKEpxL4OKKjNQXUR/edit?usp=share_link&ouid=117512314362310181270&rtpof=true&sd=true)
+* [Bug report futbolkolektyw](https://docs.google.com/document/d/10y-tki3Yc_We8FDzdB9Ga5c7VnFvSILq/edit?usp=share_link&ouid=117512314362310181270&rtpof=true&sd=true)
+
+
+# **My test report** ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+
+* [Test report](https://docs.google.com/document/d/10y-tki3Yc_We8FDzdB9Ga5c7VnFvSILq/edit?usp=share_link&ouid=117512314362310181270&rtpof=true&sd=true)
+
+
+# **Exercises**
 
 [SQL-zadania](https://github.com/edyta660391/challenge_portfolio_Edyta/blob/main/README.md#task-5)
