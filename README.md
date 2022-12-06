@@ -48,7 +48,7 @@ So I want to start working as a Software Tester and continue to grow in this sub
 * CRM
 * PRM
 
-# **Books**
+# ![image](https://user-images.githubusercontent.com/116006116/206005122-4edbac6d-d39e-4f3a-96af-8e9ec9d558ac.png)**Books**
 
 * "Podróż przez świat testowania" - Natalia Pawlak, Karolina Pawłowska
 * "Testowanie oprogramowania. Podręcznik dla początkujących" - Rafał Pawlak
