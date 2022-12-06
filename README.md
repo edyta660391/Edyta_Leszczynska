@@ -56,4 +56,14 @@ So I want to start working as a Software Tester and continue to grow in this sub
 * "Testowanie w procesie Scrum. Przewodnik po zarządzaniu jakością oprogramowania w świecie programowania" - Tilo Linz
 * "Certyfikowany tester ISTQB POZIOM PODSTAWOWY" - Adam Roman, Lucjan Stapp
 
+# **📝 Blogs**
+
+* testerzy.pl
+* testuj.pl 
+* testelka.pl
+* testerka.pl
+* wyszkolewas.com.pl
+* pwicherski.gitbook.io
+
+
 [SQL-zadania](https://github.com/edyta660391/challenge_portfolio_Edyta/blob/main/README.md#task-5)
