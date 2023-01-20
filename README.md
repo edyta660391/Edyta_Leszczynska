@@ -8,11 +8,7 @@ My name is Edyta Leszczyńska. I have been working for a telecommunications comp
 
 With my diverse experience, I have highly developed interpersonal skills. I am a communicative person. I can handle difficult situations and work in a team. In my work I often have to be creative and work under time pressure. I always strive to achieve my goals. 
 
-I want to be a Software Tester. A few months ago, I have begun to learn testing. I started by reading blogs, books and then finished some courses about testing and more.
-I would like to exhibit my technical skills that I gained and I am going to continue to develop in this field. 
-
-So I want to start working as a Software Tester and continue to grow in this subject all the time.
-
+I created this profile in order to post here all the courses I have finished. Which motivates me to continue my development. I will supplement it with more items on an ongoing basis.
 
 # **Courses**
 
