@@ -28,7 +28,17 @@ I created this profile in order to post here all the courses I have finished. Wh
 
 * Dare IT Challenge "Zostań Testerem Manualnym" <img width="100" alt="image" src="https://user-images.githubusercontent.com/116006116/205502985-2f2241ae-0329-4cc0-a2f2-ac59ac4c90eb.png"> [Link do kursu](https://www.dareit.io/challenges/qa-manual-testing)
 
+* Warsztaty z jakości obsługi Klienta
+
+* Warsztaty z postępowania z roszczeniowymi Klientami
+
 * Excel - tabele przestawne. Kurs video. Raporty i analiza danych ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) <img width="133" alt="image" src="https://user-images.githubusercontent.com/116006116/205502590-fdb2543d-7155-4300-8c79-81906148758c.png"> [Link do kursu](https://biblio.ebookpoint.pl/vex13t/excel-tabele-przestawne-kurs-video-raporty-i-analiza-danych-adam-kopec/w)
+
+# **Certifications**
+
+* Licencjat z Zarządzania (Szkoła Główna Gospodarstwa Wiejskiego)
+* Auditor wewnętrzny Systemu Zarządzania Jakością ISO 9001 
+* Dare IT QA Challenge: Testowanie Manualne
 
 # **Tools**
 
@@ -51,7 +61,7 @@ I created this profile in order to post here all the courses I have finished. Wh
 * Creating bug report
 * Creating test report
 * Reporting bugs
-
+* Creating and reading documentation
 
 
 # **Books**
@@ -61,6 +71,7 @@ I created this profile in order to post here all the courses I have finished. Wh
 * "Pasja testowania. Wydanie II rozszerzone" - Krzysztof Jadczyk
 * "Testowanie w procesie Scrum. Przewodnik po zarządzaniu jakością oprogramowania w świecie programowania" - Tilo Linz
 * "Certyfikowany tester ISTQB POZIOM PODSTAWOWY" - Adam Roman, Lucjan Stapp
+* "Potęga podświadomości" - Joseph Murphy
 
 
 # **📝 Blogs**
