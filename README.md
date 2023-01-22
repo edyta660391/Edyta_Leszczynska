@@ -32,6 +32,14 @@ I created this profile in order to post here all the courses I have finished. Wh
 
 * Warsztaty z postępowania z roszczeniowymi Klientami
 
+* Warsztaty z wyciągania wniosków z porażki
+
+* Bycie odpowiedzialnym korporacyjnym obywatelem cyfrowym
+
+* Tworzenie nastawienia na rozwój
+
+* Zwinne zasady i metodyki zarządzania
+
 * Excel - tabele przestawne. Kurs video. Raporty i analiza danych ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) <img width="133" alt="image" src="https://user-images.githubusercontent.com/116006116/205502590-fdb2543d-7155-4300-8c79-81906148758c.png"> [Link do kursu](https://biblio.ebookpoint.pl/vex13t/excel-tabele-przestawne-kurs-video-raporty-i-analiza-danych-adam-kopec/w)
 
 # **Certifications**
