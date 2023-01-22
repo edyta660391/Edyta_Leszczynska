@@ -39,6 +39,7 @@ I created this profile in order to post here all the courses I have finished. Wh
 * Licencjat z Zarządzania (Szkoła Główna Gospodarstwa Wiejskiego)
 * Auditor wewnętrzny Systemu Zarządzania Jakością ISO 9001 
 * Dare IT QA Challenge: Testowanie Manualne
+* Szkoła Muzyczna I Stopnia (Pianino,Saksofon)
 
 # **Tools**
 
