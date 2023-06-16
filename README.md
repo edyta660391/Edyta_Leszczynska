@@ -52,7 +52,10 @@ I created this profile in order to post here all the courses I have finished. Wh
 # **Tools**
 
 * Jira
+* Confluence
+* RTM
 * TesTlink
+* TestRail
 * Slack
 * Microsoft Teams
 * Zoom
@@ -61,6 +64,11 @@ I created this profile in order to post here all the courses I have finished. Wh
 * GitHub
 * CRM
 * PRM
+* ERP
+* Snipping tool
+* Greenshot
+* Bandicam
+* DBeaver
 
 # **Tech skills**
 
@@ -91,6 +99,12 @@ I created this profile in order to post here all the courses I have finished. Wh
 * testerka.pl
 * wyszkolewas.com.pl
 * pwicherski.gitbook.io
+* strefakodera.pl
+* cognity.pl
+* blazemeter.com
+* sqlpedia.pl
+* w3schools.com
+* kurshtml.edu.pl
 
 
 # **My test case examples** ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
