@@ -103,6 +103,7 @@ I created this profile in order to post here all the courses I have finished. Wh
 * wyszkolewas.com.pl
 * pwicherski.gitbook.io
 * strefakodera.pl
+* bugfreeblog.com
 * cognity.pl
 * blazemeter.com
 * sqlpedia.pl
