@@ -44,7 +44,7 @@ I created this profile in order to post here all the courses I have finished. Wh
 
 # **Certifications**
 
-* Licencjat z Zarządzania (Szkoła Główna Gospodarstwa Wiejskiego)
+* Licencjat z Zarządzania w dyscyplinie nauki o zarządzaniu i jakości (Szkoła Główna Gospodarstwa Wiejskiego w Warszawie)
 * Auditor wewnętrzny Systemu Zarządzania Jakością ISO 9001 
 * Dare IT QA Challenge: Testowanie Manualne
 * Szkoła Muzyczna I Stopnia (Pianino,Saksofon)
@@ -89,6 +89,7 @@ I created this profile in order to post here all the courses I have finished. Wh
 * "Testowanie w procesie Scrum. Przewodnik po zarządzaniu jakością oprogramowania w świecie programowania" - Tilo Linz
 * "Certyfikowany tester ISTQB POZIOM PODSTAWOWY" - Adam Roman, Lucjan Stapp
 * "Potęga podświadomości" - Joseph Murphy
+* "Jakość projektów informatycznych. Rozwój i testowanie oprogramowania" - Karolina Zmitrowicz
 
 
 # **📝 Blogs**
