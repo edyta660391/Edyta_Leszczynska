@@ -20,7 +20,7 @@ I created this profile in order to post here all the courses I have finished. Wh
 
 * Tester manualny. Kurs video. Rozpocznij karierę w IT <img width="133" alt="image" src="https://user-images.githubusercontent.com/116006116/205502590-fdb2543d-7155-4300-8c79-81906148758c.png"> [Link do kursu](https://biblio.ebookpoint.pl/vtespo/tester-manualny-kurs-video-rozpocznij-kariere-w-it-pawel-rachwal/w#tabs-3)
 
-* uTest academy [Link do kursu] (https://www.utest.com/academy)
+* uTest academy [Link do kursu](https://www.utest.com/academy)
 
 * SQL w 120 minut <img width="164" alt="image" src="https://user-images.githubusercontent.com/116006116/205502861-d6e9a420-a836-4bf4-9617-3c423507b4f7.png"> [Link do kursu](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
 
